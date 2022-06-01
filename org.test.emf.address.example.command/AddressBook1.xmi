@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ASCII"?>
+<addressbook:AddressBook xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:addressbook="http://example.de/example/1.0" id="473d51f2-cf2d-43f9-9aef-a1bdad89ccae" description="Some Addressbook">
+  <persons id="5ab9650f-71e6-4a55-a9d7-3952fcbdcba2" name="Max">
+    <contacts id="171cf6e0-2224-45b8-a15e-68eb05732537" value="1234"/>
+    <contacts id="7c42f9fa-238a-4a79-82b6-dc0ffb488dd9" type="EMAIL" value="mail@mail.com"/>
+  </persons>
+</addressbook:AddressBook>

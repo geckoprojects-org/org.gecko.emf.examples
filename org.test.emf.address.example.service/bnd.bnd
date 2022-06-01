@@ -1,0 +1,4 @@
+-library: enable-emf
+-buildpath: \
+	org.test.emf.model,\
+	osgi.cmpn;version=latest
